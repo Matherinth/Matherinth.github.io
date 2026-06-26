@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-06-26T05:22:16.411Z",
+  "results": [
+    {
+      "file": "C:\\Users\\ternc\\Documents\\Matherinths.github.io\\google429ef368deba4849.html",
+      "ok": true,
+      "saved": 0
+    },
+    {
+      "file": "C:\\Users\\ternc\\Documents\\Matherinths.github.io\\index.html",
+      "ok": true,
+      "saved": 0
+    },
+    {
+      "file": "C:\\Users\\ternc\\Documents\\Matherinths.github.io\\script.js",
+      "ok": true,
+      "saved": 0
+    },
+    {
+      "file": "C:\\Users\\ternc\\Documents\\Matherinths.github.io\\style.css",
+      "ok": true,
+      "saved": 2035
+    },
+    {
+      "file": "C:\\Users\\ternc\\Documents\\Matherinths.github.io\\sw.js",
+      "ok": true,
+      "saved": 0
+    },
+    {
+      "file": "C:\\Users\\ternc\\Documents\\Matherinths.github.io\\.js",
+      "ok": true,
+      "selfMinified": true,
+      "originalSize": 2727,
+      "minifiedSize": 2727,
+      "saved": 0
+    }
+  ]
+}
